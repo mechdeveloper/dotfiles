@@ -1,7 +1,7 @@
 [user]
 	name = Ashish Singh Baghel
 	email = ashish.sbaghel@outlook.com
-	signingkey = AFD3006089C578B3
+	signingkey = 68F19356BD56FD08
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
@@ -11,3 +11,5 @@
 	gpgsign = true
 [tag]
 	gpgsign = true
+[gpg]
+	program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe
