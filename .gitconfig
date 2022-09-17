@@ -1,0 +1,7 @@
+[user]
+	name = Ashish Singh Baghel
+	email = ashish.sbaghel@outlook.com
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
