@@ -1,7 +1,6 @@
 [user]
 	name = Ashish Singh Baghel
 	email = ashish.sbaghel@outlook.com
-	signingkey = 68F19356BD56FD08
 [commit]
 	gpgsign = true
 [tag]
